@@ -1,0 +1,21 @@
+create repository:
+-- mkdir
+-- cd
+-- pwd -show current file path
+-- git init
+-- git add file.txt
+-- git commit -m "comment for commit"
+-- git status
+-- git diff file.txt
+-- git log
+-- git log --pretty=oneline
+-- git reset --hard HEAD^
+-- cat file.txt
+-- git reflog
+-- git diff HEAD -- file.txt
+-- git checkout -- file.txt
+-- git reset HEAD file.txt
+-- rm file.txt
+-- git rm file.txt
+
+
