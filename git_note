@@ -17,5 +17,5 @@ create repository:
 -- git reset HEAD file.txt
 -- rm file.txt
 -- git rm file.txt
-
+-- ls -ah
 
