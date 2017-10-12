@@ -6,4 +6,6 @@ def my_abs(x):
     else:
         return -x
     
-my_abs(-9)
+my_abs(-9) 
+my_abs(7)
+
