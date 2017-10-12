@@ -9,3 +9,4 @@ def my_abs(x):
 my_abs(-9) 
 my_abs(7)
 
+# how to use absolute 
