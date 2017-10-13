@@ -1,15 +1,15 @@
-#!/usr/bin/env python3
+#my my_abs.py
 
 def my_abs(x):
-    if x >= 0:
-        return x
+    if not isinstance(x, (int, float)):
+	    raise TypeError('bad operand type')
+    if x > 0:
+	    return x
+		
     else:
-        return -x
-    
-my_abs(-9) 
-my_abs(7)
+	    return -x
+		
 
-# how to use absolute   
-
-my_abs(a)
-my_abs(-200)
+		
+		
+		
