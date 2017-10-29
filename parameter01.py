@@ -11,7 +11,7 @@ def power02(x, n=2):
         s = s*x
     return s
 
-
+# default parameter must point to static object
 def add_end(l=[]):
     l.append('END')
     return l
