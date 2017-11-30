@@ -43,6 +43,8 @@ del guests[0]
 del guests[0]
 
 print(guests)
+
+print(str(len(guests)) + ' are invited to the party!!')
 	
 	
 	
