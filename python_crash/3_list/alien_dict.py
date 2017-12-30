@@ -67,3 +67,11 @@ glossary = {
 # Print out information
 for term, meaning in glossary.items():
 	print("The meaning of python term " + "'" + term + "'" + " is " + meaning + '.')
+
+
+
+
+
+
+
+
